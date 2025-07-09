@@ -1,0 +1,38 @@
+// node v22.17.0
+# npm init -y
+# npm i typescript @types/node -D
+# npx tsc --init
+# npm i fastify @fastify/cors fastify-type-provider-zod zod
+
+// formatação
+# npm i @biomejs/biome -D
+// Configuração do biome
+# npx ultracite init
+
+// docker
+// subir em segundo plano
+# docker compose up -d
+// ver containers - adicione -a para ver todos containers, não apenas os ativos
+# docker ps
+// parar containers
+# docker stop
+// logs - adicione -f para log continuo
+# docker logs cd1cf4437905
+
+// postgres
+# npm i postgres
+
+// orm - criar tabelas do banco
+# npm i drizzle-orm
+# npm i drizzle-kit -D
+
+// cria as migrations 
+# npx drizzle-kit generate
+// roda as migrations
+# npx drizzle-kit migrate
+
+// ferramente para visualizar o BD
+# npx drizzle-kit studio
+
+// popular o banco para testes
+# npx drizzle-kit migrate
