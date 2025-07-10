@@ -22,7 +22,7 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 
 ### Pré-requisitos
 
--   [Node.js](https://nodejs.org/en/) (v22.x ou superior)
+-   [Node.js](https://nodejs.org/en/) (v22.x ou superior - com suporte a --experimental-strip-types)
 -   [Docker](https://www.docker.com/get-started/) e Docker Compose
 
 ### Passos
