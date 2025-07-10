@@ -30,7 +30,7 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/epsilveira/nlwagents-server.git
-    cd nlwagents/server
+    cd nlwagents-server/server
     ```
 
 2.  **Instale as dependências:**
