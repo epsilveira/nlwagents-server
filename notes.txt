@@ -36,3 +36,9 @@
 
 // popular o banco para testes
 # npx drizzle-kit migrate
+
+// requisições do tipo multipart
+# npm i @fastify/multipart
+
+// sdk gemini
+# npm i @google/genai

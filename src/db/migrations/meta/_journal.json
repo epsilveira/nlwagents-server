@@ -15,6 +15,13 @@
       "when": 1752172908547,
       "tag": "0001_tearful_martin_li",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752291888017,
+      "tag": "0002_many_alex_power",
+      "breakpoints": true
     }
   ]
 }
